@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Durgesh Patidar</h1>
-<h3 align="center">Desktop Support Engineer | IT Support | Python Learner</h3>
+<h3 align="center">Desktop Support Engineer | IT Support </h3>
 
 ---
 
