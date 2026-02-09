@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 - 🎓 Trainee Desktop Support Engineer  
 - 🖥️ Interested in IT Support, Troubleshooting & System Administration  
-- 🌱 Currently learning **Python & Windows Administration**  
+- 🌱 Currently learning **Operating System, Windows Administration**  
 - 💬 Ask me about **Windows, Hardware, Networking basics**  
 - 📫 How to reach me: **durgeshpatidar.work@gmail.com**
 
